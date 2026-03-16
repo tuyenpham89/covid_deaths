@@ -1,1 +1,1 @@
-# A-new-python-project
+# covid_deaths
